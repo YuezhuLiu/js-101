@@ -1,0 +1,12 @@
+{
+  "welcome": "Welcome to mortgage calculator (car payment calculator)! Please enter your name: ",
+  "validName": "Be sure to enter a valid name.",
+  "greeting": "Nice to meet you!",
+  "loanAmount": "Please enter your total loan amount in dollars: ",
+  "validNumber": "Sorry, this is not a valid number",
+  "APR": "Please provide your Annual Percentage Rate (APR) \n(Example: 6 for 6%): ",
+  "loanYear": "What's your loan duration? Year: ",
+  "loanMonth": "Month: ",
+  "result": "Your monthly payment is: ",
+  "continue": "Would you like to calculate again? (y/n)"
+}
